@@ -1,0 +1,1002 @@
+[
+    {
+        "id": 1,
+        "name": "Use a reusable water bottle",
+        "co2Reduction": 0.5
+    },
+    {
+        "id": 2,
+        "name": "Take public transport",
+        "co2Reduction": 2.6
+    },
+    {
+        "id": 3,
+        "name": "Eat a plant-based meal",
+        "co2Reduction": 0.8
+    },
+    {
+        "id": 4,
+        "name": "Use energy-efficient light bulbs",
+        "co2Reduction": 0.1
+    },
+    {
+        "id": 5,
+        "name": "Recycle paper",
+        "co2Reduction": 0.2
+    },
+    {
+        "id": 6,
+        "name": "Walk or bike instead of driving",
+        "co2Reduction": 4.5
+    },
+    {
+        "id": 7,
+        "name": "Compost food scraps",
+        "co2Reduction": 0.3
+    },
+    {
+        "id": 8,
+        "name": "Unplug devices when not in use",
+        "co2Reduction": 0.1
+    },
+    {
+        "id": 9,
+        "name": "Reduce shower time by 5 minutes",
+        "co2Reduction": 0.6
+    },
+    {
+        "id": 10,
+        "name": "Switch to renewable energy",
+        "co2Reduction": 5.0
+    },
+    {
+        "id": 11,
+        "name": "Air dry clothes instead of using a dryer",
+        "co2Reduction": 2.3
+    },
+    {
+        "id": 12,
+        "name": "Carpool to work or school",
+        "co2Reduction": 1.5
+    },
+    {
+        "id": 13,
+        "name": "Buy locally grown produce",
+        "co2Reduction": 0.4
+    },
+    {
+        "id": 14,
+        "name": "Limit meat consumption to once a week",
+        "co2Reduction": 3.2
+    },
+    {
+        "id": 15,
+        "name": "Use reusable shopping bags",
+        "co2Reduction": 0.15
+    },
+    {
+        "id": 16,
+        "name": "Install a low-flow showerhead",
+        "co2Reduction": 0.25
+    },
+    {
+        "id": 17,
+        "name": "Turn off lights when leaving a room",
+        "co2Reduction": 0.05
+    },
+    {
+        "id": 18,
+        "name": "Replace single-use items with reusables",
+        "co2Reduction": 0.8
+    },
+    {
+        "id": 19,
+        "name": "Drive at a consistent speed",
+        "co2Reduction": 0.4
+    },
+    {
+        "id": 20,
+        "name": "Avoid fast fashion, buy second-hand clothing",
+        "co2Reduction": 1.2
+    },
+    {
+        "id": 21,
+        "name": "Use a programmable thermostat",
+        "co2Reduction": 1.0
+    },
+    {
+        "id": 22,
+        "name": "Reduce screen brightness to save power",
+        "co2Reduction": 0.02
+    },
+    {
+        "id": 23,
+        "name": "Choose energy-efficient appliances",
+        "co2Reduction": 2.0
+    },
+    {
+        "id": 24,
+        "name": "Replace car trips under 2 miles with walking or biking",
+        "co2Reduction": 1.8
+    },
+    {
+        "id": 25,
+        "name": "Reduce dairy intake",
+        "co2Reduction": 0.9
+    },
+    {
+        "id": 26,
+        "name": "Support sustainable brands",
+        "co2Reduction": 0.3
+    },
+    {
+        "id": 27,
+        "name": "Plant a tree",
+        "co2Reduction": 0.9
+    },
+    {
+        "id": 28,
+        "name": "Switch to e-billing to save paper",
+        "co2Reduction": 0.1
+    },
+    {
+        "id": 29,
+        "name": "Collect rainwater for garden use",
+        "co2Reduction": 0.2
+    },
+    {
+        "id": 30,
+        "name": "Switch to a fuel-efficient vehicle",
+        "co2Reduction": 2.5
+    },
+    {
+        "id": 31,
+        "name": "Use natural cleaning products",
+        "co2Reduction": 0.2
+    },
+    {
+        "id": 32,
+        "name": "Turn off electronics at night",
+        "co2Reduction": 0.3
+    },
+    {
+        "id": 33,
+        "name": "Install solar panels",
+        "co2Reduction": 8.0
+    },
+    {
+        "id": 34,
+        "name": "Reuse or donate old clothes",
+        "co2Reduction": 0.7
+    },
+    {
+        "id": 35,
+        "name": "Eat seasonal produce",
+        "co2Reduction": 0.4
+    },
+    {
+        "id": 36,
+        "name": "Reduce thermostat temperature by 1 degree",
+        "co2Reduction": 0.5
+    },
+    {
+        "id": 37,
+        "name": "Use a bike for short errands",
+        "co2Reduction": 1.0
+    },
+    {
+        "id": 38,
+        "name": "Refill ink cartridges instead of buying new ones",
+        "co2Reduction": 0.2
+    },
+    {
+        "id": 39,
+        "name": "Lower water heater temperature",
+        "co2Reduction": 1.2
+    },
+    {
+        "id": 40,
+        "name": "Avoid plastic water bottles",
+        "co2Reduction": 0.3
+    },
+    {
+        "id": 41,
+        "name": "Use recycled paper products",
+        "co2Reduction": 0.2
+    },
+    {
+        "id": 42,
+        "name": "Replace your air filter regularly",
+        "co2Reduction": 0.1
+    },
+    {
+        "id": 43,
+        "name": "Use cloth napkins instead of paper",
+        "co2Reduction": 0.05
+    },
+    {
+        "id": 44,
+        "name": "Reduce air travel",
+        "co2Reduction": 3.0
+    },
+    {
+        "id": 45,
+        "name": "Install double-pane windows",
+        "co2Reduction": 2.5
+    },
+    {
+        "id": 46,
+        "name": "Use a fan instead of air conditioning",
+        "co2Reduction": 0.5
+    },
+    {
+        "id": 47,
+        "name": "Replace grass lawn with native plants",
+        "co2Reduction": 0.8
+    },
+    {
+        "id": 48,
+        "name": "Reduce paper towel usage",
+        "co2Reduction": 0.1
+    },
+    {
+        "id": 49,
+        "name": "Buy products with minimal packaging",
+        "co2Reduction": 0.2
+    },
+    {
+        "id": 50,
+        "name": "Reduce waste by composting at home",
+        "co2Reduction": 0.4
+    },
+    {
+        "id": 51,
+        "name": "Repair broken items instead of replacing",
+        "co2Reduction": 0.3
+    },
+    {
+        "id": 52,
+        "name": "Recycle electronic waste responsibly",
+        "co2Reduction": 0.5
+    },
+    {
+        "id": 53,
+        "name": "Choose furniture made from sustainable materials",
+        "co2Reduction": 0.6
+    },
+    {
+        "id": 54,
+        "name": "Opt for digital versions of books and magazines",
+        "co2Reduction": 0.2
+    },
+    {
+        "id": 55,
+        "name": "Avoid using plastic straws",
+        "co2Reduction": 0.05
+    },
+    {
+        "id": 56,
+        "name": "Support local farmers' markets",
+        "co2Reduction": 0.3
+    },
+    {
+        "id": 57,
+        "name": "Use biodegradable trash bags",
+        "co2Reduction": 0.1
+    },
+    {
+        "id": 58,
+        "name": "Reduce washing machine use by full loads",
+        "co2Reduction": 0.6
+    },
+    {
+        "id": 59,
+        "name": "Avoid disposable razors",
+        "co2Reduction": 0.1
+    },
+    {
+        "id": 60,
+        "name": "Avoid food waste by meal planning",
+        "co2Reduction": 0.4
+    },
+    {
+        "id": 61,
+        "name": "Switch to eco-friendly laundry detergent",
+        "co2Reduction": 0.15
+    },
+    {
+        "id": 62,
+        "name": "Use energy-efficient shower heads",
+        "co2Reduction": 0.2
+    },
+    {
+        "id": 63,
+        "name": "Donate unused items instead of throwing away",
+        "co2Reduction": 0.7
+    },
+    {
+        "id": 64,
+        "name": "Skip printing receipts and go digital",
+        "co2Reduction": 0.05
+    },
+    {
+        "id": 65,
+        "name": "Use a reusable lunch container",
+        "co2Reduction": 0.1
+    },
+    {
+        "id": 66,
+        "name": "Switch to LED holiday lights",
+        "co2Reduction": 0.3
+    },
+    {
+        "id": 67,
+        "name": "Grow a vegetable garden",
+        "co2Reduction": 0.5
+    },
+    {
+        "id": 68,
+        "name": "Use cloth diapers instead of disposables",
+        "co2Reduction": 0.4
+    },
+    {
+        "id": 69,
+        "name": "Host online meetings instead of traveling",
+        "co2Reduction": 2.0
+    },
+    {
+        "id": 70,
+        "name": "Use a broom instead of a leaf blower",
+        "co2Reduction": 0.15
+    },
+    {
+        "id": 71,
+        "name": "Plant drought-resistant plants",
+        "co2Reduction": 0.3
+    },
+    {
+        "id": 72,
+        "name": "Limit use of space heaters",
+        "co2Reduction": 0.4
+    },
+    {
+        "id": 73,
+        "name": "Opt for paperless billing",
+        "co2Reduction": 0.1
+    },
+    {
+        "id": 74,
+        "name": "Make homemade cleaning products",
+        "co2Reduction": 0.2
+    },
+    {
+        "id": 75,
+        "name": "Use non-toxic paint",
+        "co2Reduction": 0.1
+    },
+    {
+        "id": 76,
+        "name": "Switch to a hand-powered can opener",
+        "co2Reduction": 0.05
+    },
+    {
+        "id": 77,
+        "name": "Opt for organic cotton clothing",
+        "co2Reduction": 0.3
+    },
+    {
+        "id": 78,
+        "name": "Reduce car idling",
+        "co2Reduction": 0.3
+    },
+    {
+        "id": 79,
+        "name": "Install a water-saving toilet",
+        "co2Reduction": 0.6
+    },
+    {
+        "id": 80,
+        "name": "Purchase products with minimal carbon footprints",
+        "co2Reduction": 0.2
+    },
+    {
+        "id": 81,
+        "name": "Avoid single-use packaging",
+        "co2Reduction": 0.5
+    },
+    {
+        "id": 82,
+        "name": "Use a reusable coffee cup",
+        "co2Reduction": 0.2
+    },
+    {
+        "id": 83,
+        "name": "Switch to a hybrid car",
+        "co2Reduction": 3.5
+    },
+    {
+        "id": 84,
+        "name": "Eat less processed food",
+        "co2Reduction": 0.7
+    },
+    {
+        "id": 85,
+        "name": "Use fewer chemicals in the garden",
+        "co2Reduction": 0.2
+    },
+    {
+        "id": 86,
+        "name": "Use an electric mower",
+        "co2Reduction": 0.8
+    },
+    {
+        "id": 87,
+        "name": "Practice water conservation in the garden",
+        "co2Reduction": 0.4
+    },
+    {
+        "id": 88,
+        "name": "Install energy-efficient windows",
+        "co2Reduction": 1.2
+    },
+    {
+        "id": 89,
+        "name": "Avoid packaged snacks",
+        "co2Reduction": 0.3
+    },
+    {
+        "id": 90,
+        "name": "Choose reusable cutlery and plates",
+        "co2Reduction": 0.4
+    },
+    {
+        "id": 91,
+        "name": "Switch to bamboo toothbrushes",
+        "co2Reduction": 0.1
+    },
+    {
+        "id": 92,
+        "name": "Use a clothesline instead of a dryer",
+        "co2Reduction": 1.0
+    },
+    {
+        "id": 93,
+        "name": "Avoid disposable plastic bags",
+        "co2Reduction": 0.2
+    },
+    {
+        "id": 94,
+        "name": "Use a smart meter to track energy consumption",
+        "co2Reduction": 0.5
+    },
+    {
+        "id": 95,
+        "name": "Switch to a low-carbon footprint bank",
+        "co2Reduction": 0.2
+    },
+    {
+        "id": 96,
+        "name": "Opt for eco-friendly wrapping paper",
+        "co2Reduction": 0.05
+    },
+    {
+        "id": 97,
+        "name": "Support eco-friendly businesses",
+        "co2Reduction": 0.3
+    },
+    {
+        "id": 98,
+        "name": "Cook in bulk to save energy",
+        "co2Reduction": 0.4
+    },
+    {
+        "id": 99,
+        "name": "Host a car-free day",
+        "co2Reduction": 4.0
+    },
+    {
+        "id": 100,
+        "name": "Reduce packaging waste from deliveries",
+        "co2Reduction": 0.7
+    },
+    {
+        "id": 101,
+        "name": "Use an electric vehicle for daily commutes",
+        "co2Reduction": 2.5
+    },
+    {
+        "id": 102,
+        "name": "Switch to a green energy supplier",
+        "co2Reduction": 5.0
+    },
+    {
+        "id": 103,
+        "name": "Opt for eco-friendly office supplies",
+        "co2Reduction": 0.3
+    },
+    {
+        "id": 104,
+        "name": "Switch to natural gas for heating",
+        "co2Reduction": 0.9
+    },
+    {
+        "id": 105,
+        "name": "Choose eco-friendly transportation options",
+        "co2Reduction": 2.0
+    },
+    {
+        "id": 106,
+        "name": "Use digital files over printed copies",
+        "co2Reduction": 0.1
+    },
+    {
+        "id": 107,
+        "name": "Use water-efficient landscaping",
+        "co2Reduction": 0.3
+    },
+    {
+        "id": 108,
+        "name": "Install a programmable thermostat",
+        "co2Reduction": 1.0
+    },
+    {
+        "id": 109,
+        "name": "Use biodegradable cleaning products",
+        "co2Reduction": 0.2
+    },
+    {
+        "id": 110,
+        "name": "Use sustainable packaging",
+        "co2Reduction": 0.6
+    },
+    {
+        "id": 111,
+        "name": "Cut down on air conditioning use",
+        "co2Reduction": 1.5
+    },
+    {
+        "id": 112,
+        "name": "Donate unused food to charity",
+        "co2Reduction": 0.3
+    },
+    {
+        "id": 113,
+        "name": "Avoid using disposable plastic cutlery",
+        "co2Reduction": 0.2
+    },
+    {
+        "id": 114,
+        "name": "Switch to low-carbon products",
+        "co2Reduction": 0.5
+    },
+    {
+        "id": 115,
+        "name": "Install a greywater recycling system",
+        "co2Reduction": 0.8
+    },
+    {
+        "id": 116,
+        "name": "Opt for energy-efficient lighting outdoors",
+        "co2Reduction": 0.2
+    },
+    {
+        "id": 117,
+        "name": "Choose plant-based cleaning products",
+        "co2Reduction": 0.3
+    },
+    {
+        "id": 118,
+        "name": "Shop secondhand furniture",
+        "co2Reduction": 0.7
+    },
+    {
+        "id": 119,
+        "name": "Use a tankless water heater",
+        "co2Reduction": 1.5
+    },
+    {
+        "id": 120,
+        "name": "Use electric bikes for commuting",
+        "co2Reduction": 1.0
+    },
+    {
+        "id": 121,
+        "name": "Install solar water heating system",
+        "co2Reduction": 1.6
+    },
+    {
+        "id": 122,
+        "name": "Choose sustainable seafood",
+        "co2Reduction": 0.4
+    },
+    {
+        "id": 123,
+        "name": "Use a bicycle for transportation",
+        "co2Reduction": 1.3
+    },
+    {
+        "id": 124,
+        "name": "Switch to compostable plates",
+        "co2Reduction": 0.2
+    },
+    {
+        "id": 125,
+        "name": "Switch to energy-efficient laundry appliances",
+        "co2Reduction": 0.6
+    },
+    {
+        "id": 126,
+        "name": "Use eco-friendly paint",
+        "co2Reduction": 0.3
+    },
+    {
+        "id": 127,
+        "name": "Choose eco-friendly furniture",
+        "co2Reduction": 0.5
+    },
+    {
+        "id": 128,
+        "name": "Switch to LED lighting throughout your home",
+        "co2Reduction": 1.0
+    },
+    {
+        "id": 129,
+        "name": "Support eco-friendly transportation projects",
+        "co2Reduction": 0.8
+    },
+    {
+        "id": 130,
+        "name": "Replace older appliances with energy-efficient ones",
+        "co2Reduction": 0.9
+    },
+    {
+        "id": 131,
+        "name": "Use reusable coffee filters",
+        "co2Reduction": 0.1
+    },
+    {
+        "id": 132,
+        "name": "Buy products with minimal carbon footprint",
+        "co2Reduction": 0.3
+    },
+    {
+        "id": 133,
+        "name": "Support electric vehicle infrastructure",
+        "co2Reduction": 0.7
+    },
+    {
+        "id": 134,
+        "name": "Use a reusable sandwich bag",
+        "co2Reduction": 0.1
+    },
+    {
+        "id": 135,
+        "name": "Avoid using disposable gloves",
+        "co2Reduction": 0.2
+    },
+    {
+        "id": 136,
+        "name": "Avoid the use of non-biodegradable materials",
+        "co2Reduction": 0.5
+    },
+    {
+        "id": 137,
+        "name": "Use eco-friendly household products",
+        "co2Reduction": 0.3
+    },
+    {
+        "id": 138,
+        "name": "Use water-efficient faucets",
+        "co2Reduction": 0.3
+    },
+    {
+        "id": 139,
+        "name": "Switch to low-wattage appliances",
+        "co2Reduction": 0.4
+    },
+    {
+        "id": 140,
+        "name": "Avoid using air fresheners",
+        "co2Reduction": 0.05
+    },
+    {
+        "id": 141,
+        "name": "Practice mindful consumption",
+        "co2Reduction": 0.7
+    },
+    {
+        "id": 142,
+        "name": "Invest in sustainable products",
+        "co2Reduction": 0.6
+    },
+    {
+        "id": 143,
+        "name": "Use a rain barrel for garden watering",
+        "co2Reduction": 0.3
+    },
+    {
+        "id": 144,
+        "name": "Opt for plant-based packaging",
+        "co2Reduction": 0.4
+    },
+    {
+        "id": 145,
+        "name": "Eat seasonal food",
+        "co2Reduction": 0.5
+    },
+    {
+        "id": 146,
+        "name": "Install a wind turbine",
+        "co2Reduction": 2.0
+    },
+    {
+        "id": 147,
+        "name": "Install a green roof",
+        "co2Reduction": 0.8
+    },
+    {
+        "id": 148,
+        "name": "Buy local products",
+        "co2Reduction": 0.5
+    },
+    {
+        "id": 149,
+        "name": "Switch to a high-efficiency furnace",
+        "co2Reduction": 1.3
+    },
+    {
+        "id": 150,
+        "name": "Support urban agriculture",
+        "co2Reduction": 0.4
+    },
+    {
+        "id": 151,
+        "name": "Install a smart irrigation system",
+        "co2Reduction": 0.7
+    },
+    {
+        "id": 152,
+        "name": "Avoid buying bottled water",
+        "co2Reduction": 0.3
+    },
+    {
+        "id": 153,
+        "name": "Choose natural fertilizers",
+        "co2Reduction": 0.4
+    },
+    {
+        "id": 154,
+        "name": "Switch to a low-carbon diet",
+        "co2Reduction": 1.0
+    },
+    {
+        "id": 155,
+        "name": "Use a solar-powered charger",
+        "co2Reduction": 0.5
+    },
+    {
+        "id": 156,
+        "name": "Reduce paper waste in the office",
+        "co2Reduction": 0.3
+    },
+    {
+        "id": 157,
+        "name": "Install a home energy storage system",
+        "co2Reduction": 1.0
+    },
+    {
+        "id": 158,
+        "name": "Buy energy-efficient appliances",
+        "co2Reduction": 1.2
+    },
+    {
+        "id": 159,
+        "name": "Practice composting",
+        "co2Reduction": 0.7
+    },
+    {
+        "id": 160,
+        "name": "Install a geothermal heat pump",
+        "co2Reduction": 2.5
+    },
+    {
+        "id": 161,
+        "name": "Buy energy-efficient vehicles",
+        "co2Reduction": 2.0
+    },
+    {
+        "id": 162,
+        "name": "Use smart thermostats",
+        "co2Reduction": 1.2
+    },
+    {
+        "id": 163,
+        "name": "Eat more plant-based meals",
+        "co2Reduction": 0.9
+    },
+    {
+        "id": 164,
+        "name": "Switch to a non-toxic mattress",
+        "co2Reduction": 0.3
+    },
+    {
+        "id": 165,
+        "name": "Use a bike-sharing service",
+        "co2Reduction": 0.6
+    },
+    {
+        "id": 166,
+        "name": "Use a power strip for electronics",
+        "co2Reduction": 0.2
+    },
+    {
+        "id": 167,
+        "name": "Choose electric buses for public transportation",
+        "co2Reduction": 0.7
+    },
+    {
+        "id": 168,
+        "name": "Switch to high-efficiency water heaters",
+        "co2Reduction": 1.1
+    },
+    {
+        "id": 169,
+        "name": "Install a rainwater harvesting system",
+        "co2Reduction": 1.2
+    },
+    {
+        "id": 170,
+        "name": "Switch to low-carbon transportation options",
+        "co2Reduction": 1.0
+    },
+    {
+        "id": 171,
+        "name": "Install LED streetlights",
+        "co2Reduction": 1.0
+    },
+    {
+        "id": 172,
+        "name": "Use a heat pump",
+        "co2Reduction": 2.0
+    },
+    {
+        "id": 173,
+        "name": "Choose electric heating",
+        "co2Reduction": 1.2
+    },
+    {
+        "id": 174,
+        "name": "Install an electric vehicle charging station",
+        "co2Reduction": 1.5
+    },
+    {
+        "id": 175,
+        "name": "Use electric lawn equipment",
+        "co2Reduction": 0.6
+    },
+    {
+        "id": 176,
+        "name": "Support sustainable fashion brands",
+        "co2Reduction": 0.3
+    },
+    {
+        "id": 177,
+        "name": "Use a public transportation pass",
+        "co2Reduction": 1.0
+    },
+    {
+        "id": 178,
+        "name": "Install solar panels",
+        "co2Reduction": 5.0
+    },
+    {
+        "id": 179,
+        "name": "Opt for plant-based food alternatives",
+        "co2Reduction": 0.7
+    },
+    {
+        "id": 180,
+        "name": "Use a passive solar design for homes",
+        "co2Reduction": 1.5
+    },
+    {
+        "id": 181,
+        "name": "Install a heat recovery ventilation system",
+        "co2Reduction": 1.2
+    },
+    {
+        "id": 182,
+        "name": "Switch to a low-carbon energy supplier",
+        "co2Reduction": 1.4
+    },
+    {
+        "id": 183,
+        "name": "Install a greywater treatment system",
+        "co2Reduction": 1.3
+    },
+    {
+        "id": 184,
+        "name": "Install a green wall",
+        "co2Reduction": 0.6
+    },
+    {
+        "id": 185,
+        "name": "Choose eco-friendly packaging for gifts",
+        "co2Reduction": 0.2
+    },
+    {
+        "id": 186,
+        "name": "Support sustainable construction",
+        "co2Reduction": 1.5
+    },
+    {
+        "id": 187,
+        "name": "Plant more trees",
+        "co2Reduction": 2.0
+    },
+    {
+        "id": 188,
+        "name": "Opt for plant-based plastic products",
+        "co2Reduction": 0.4
+    },
+    {
+        "id": 189,
+        "name": "Use a rainwater irrigation system",
+        "co2Reduction": 0.6
+    },
+    {
+        "id": 190,
+        "name": "Choose sustainable home products",
+        "co2Reduction": 0.8
+    },
+    {
+        "id": 191,
+        "name": "Support green construction projects",
+        "co2Reduction": 1.4
+    },
+    {
+        "id": 192,
+        "name": "Opt for minimalistic design",
+        "co2Reduction": 0.3
+    },
+    {
+        "id": 193,
+        "name": "Switch to eco-friendly paint",
+        "co2Reduction": 0.2
+    },
+    {
+        "id": 194,
+        "name": "Switch to eco-friendly floor cleaning products",
+        "co2Reduction": 0.1
+    },
+    {
+        "id": 195,
+        "name": "Install a home composting system",
+        "co2Reduction": 0.8
+    },
+    {
+        "id": 196,
+        "name": "Install a green roof garden",
+        "co2Reduction": 0.7
+    },
+    {
+        "id": 197,
+        "name": "Support local farmers",
+        "co2Reduction": 0.6
+    },
+    {
+        "id": 198,
+        "name": "Use water-saving irrigation systems",
+        "co2Reduction": 0.5
+    },
+    {
+        "id": 199,
+        "name": "Install a wind-powered water pump",
+        "co2Reduction": 1.0
+    },
+    {
+        "id": 200,
+        "name": "Invest in clean energy technologies",
+        "co2Reduction": 2.5
+    }
+]
